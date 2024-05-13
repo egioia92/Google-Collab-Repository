@@ -9,6 +9,5 @@ GPT stands for Generatively Pretrained Transformer, so the transformer is the ne
 The transformer architecture has been copy-pasted with small modifications in a huge number of applications in AI.
 Nano GPT is a transformer-based language model in particular a character-level language model trained on all Shakespeare.
 
-##Reperti
-
-
+## Reperti
+Exploring fine-tuning techniques for text-to-image models. Teaching Stable Diffusion with a new concept using images.
