@@ -2,6 +2,7 @@
 A collection of personal projects implemented in Google Collab
 - NanoGPT: From Andrej Karpathy's class
 - Reperti: Finetuning Stable Diffusion with ad hoc pictures
+- Binary Logistic Regression Case Study: Marketing Campaign Response Model
 
 ## NanoGPT
 The base components of GPT come from a paper called "Attention is all you need" which proposed the Transformer architecture. 
@@ -11,3 +12,9 @@ Nano GPT is a transformer-based language model in particular a character-level l
 
 ## Reperti
 Exploring fine-tuning techniques for text-to-image models. Teaching Stable Diffusion with a new concept using images.
+
+## Binary Logistic Regression Case Study: Marketing Campaign Response Model
+Background: A large skin clinic offers a variety of products and services to customers. A marketing campaign was launched to introduce a new product.
+Data: The data shows the response to the marketing campaign along with demographic and transaction data of customers.
+Objective: The objective is to identify factors driving response to the marketing campaign.
+
