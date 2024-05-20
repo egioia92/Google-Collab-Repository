@@ -18,3 +18,8 @@ Background: A large skin clinic offers a variety of products and services to cus
 Data: The data shows the response to the marketing campaign along with demographic and transaction data of customers.
 Objective: The objective is to identify factors driving response to the marketing campaign.
 
+#Multiple Linear Regression Case Study: Boston Housing Prices 
+Background: The data has 506 cases and each case is located in Boston. 
+Data: The “median housing price” is a target variable. The data has many other variables related to environment, education, crime etc. which can influence the housing prices in the specific location
+Objective: The objective is to identify significant factors affecting housing prices
+
